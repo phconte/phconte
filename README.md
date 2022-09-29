@@ -5,7 +5,7 @@
 Sou Engenheiro Eletricista, estudante de Segurança da Informação e recentemente comecei a atuar na área de QA! Tenho experiência com testes manuais e automatizados em API utilizando Robot Framework e Python. Também já atuei na área de projetos elétricos, especialmente geração de energia renovável!  
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:paulohenriqueconte@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/phconte/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulohconte/)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/phconte)
 
 ## 💻 Tecnologias
